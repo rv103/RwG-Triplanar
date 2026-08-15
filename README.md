@@ -5,6 +5,8 @@ layers at once — instead of clicking every fill, mask and generator by hand.
 
 > **Preview · v0.1.0**
 
+![RwG Tri-planar panel](docs/panel.png)
+
 Buttons for **All** or only the **Selected** layers, to **Tri-planar** or back to
 **UV**, with checkboxes to target three categories independently:
 
